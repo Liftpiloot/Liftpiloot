@@ -1,7 +1,6 @@
 # Abel van Dijk
 - Student at Fontys ICT
 - Currently learning C# development
-- Visit my [website](https://liftpiloot.github.io/)
 - Contact me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abel-van-dijk/)
 &nbsp;
